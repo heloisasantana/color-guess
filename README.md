@@ -6,7 +6,7 @@ Desenvolvido por Heloísa Santana da Silva.
 
 <h3>Descrição:</h3>
 
-Nesse projeto é possível tentar acertar uma cor de acordo com a sua representação em RGB, possível de ser visualizada no texto da página. O código em RGB aparece e o usuário precisa clicar na cor escolhida, e após isso será indicado se esse palpite for um acerto ou um erro.
+Nesse projeto é possível tentar acertar uma cor de acordo com a sua representação em RGB, possível de ser visualizada no texto da página. O código em RGB e as cores selecionáveis são gerados automaticamente. O usuário precisa clicar na cor escolhida de acordo com o RGB fornecido, e após isso será indicado se esse palpite foi um acerto ou um erro.
 
 <h3>Tecnologias usadas:</h3>
 <div style="display: inline_block">
